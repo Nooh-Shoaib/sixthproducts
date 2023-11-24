@@ -3,8 +3,9 @@
     {
       "slug": "pre-rolls-boxes",
       "id": "pre-rolls-boxes",
-      "linkTitle" : "CBD Packaging",
-      "link" : "Home",
+      "Titlelink" : "/CBDPackaging",
+      "Title" : "CBD Packaging",
+      "homelink" : "Home",
       "productTitle": "Custom CBD Pre Rolls Packaging Boxes",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1627835995Pre-Rolls-Boxes-SirePrinting%2003.png-gallery2",
@@ -41,8 +42,9 @@
     {
       "slug": "vape-accessories-boxes",
       "id": "vape-accessories-boxes",
-      "linkTitle" : "CBD Packaging",
-      "link" : "Home",
+      "Titlelink" : "/CBDPackaging",
+      "Title" : "CBD Packaging",
+      "homelink" : "Home",
       "productTitle": "Custom Vape Accessories Boxes",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1627836895Vape-Accessories-Boxes-SirePrinting%2001.png",
@@ -79,8 +81,9 @@
     {
       "slug": "vape-juice-bottle-boxes",
       "id": "vape-juice-bottle-boxes",
-      "linkTitle" : "CBD Packaging",
-      "link" : "Home",
+       "Titlelink" : "/CBDPackaging",
+      "Title" : "CBD Packaging",
+      "homelink" : "Home",
       "productTitle": "Custom Vape Juice Bottle Boxes",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1627836226Vape-Juice-Bottle-Boxes-SirePrinting%2002.png-gallery1",
@@ -113,8 +116,9 @@
     {
       "slug": "vape-oil-cartridge-boxes",
       "id": "vape-oil-cartridge-boxes",
-      "linkTitle" : "CBD Packaging",
-      "link" : "Home",
+       "Titlelink" : "/CBDPackaging",
+      "Title" : "CBD Packaging",
+      "homelink" : "Home",
       "productTitle": "Custom Vape Oil Cartridge Boxes",
       "description": [
         {
@@ -156,8 +160,9 @@
     {
       "slug": "vape-pen-boxes",
       "id": "vape-pen-boxes",
-      "linkTitle" : "CBD Packaging",
-      "link" : "Home",
+      "Titlelink" : "/CBDPackaging",
+      "Title" : "CBD Packaging",
+      "homelink" : "Home",
       "productTitle": "Custom Vape Pen Boxes",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1627836476Vape-Pen-Boxes-SirePrinting%2001.png",
@@ -199,8 +204,9 @@
     {
       "slug": "bath-bomb-boxes",
       "id": "bath-bomb-boxes",
-      "linkTitle" : "Custom Retail Packaging",
-      "link" : "Home",
+       "Titlelink" : "/CustomRetailPackaging",
+      "homelink" : "Home",
+      "Title" : "Custom Retail Packaging",
       "productTitle": "Custom Bath Bomb Boxes",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1632874083Bath%20Bomb%20Boxes%20Sire%20Printing%2001.png",
