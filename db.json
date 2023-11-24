@@ -1,0 +1,224 @@
+{
+  "products": [
+    {
+      "slug": "custom-vape-boxes",
+      "id": "custom-vape-boxes",
+      "linkTitle" : "CBD Packaging",
+      "link" : "Home",
+      "productTitle": "Custom Vape Boxes",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1627779934Custom-Vape-Boxes-SirePrinting%2001.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627779935Custom-Vape-Boxes-SirePrinting%2003.png-gallery2"
+      ],
+      "specifications": [
+        {
+          "name": "Box Style",
+          "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
+        },
+        {
+          "name": "Dimensions",
+          "detail": "All Sizes Available"
+        },
+        {
+          "name": "Quantity",
+          "detail": "100"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "slug": "cannabis-blunt-boxes",
+          "productTitle": "Cannabis Blunt Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627777676Cannabis--Blunt-Boxes-SirePrinting%2001.png"
+        },
+        {
+          "slug": "cbd-extract-boxes",
+          "productTitle": "CBD Extract Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627776596CBD-Extract-Boxes-03.png"
+        }
+      ],
+      "description": [
+        {
+          "descriptionHeading": "Boost Up Your Brand Existence with Elegantly Designed Custom Vape Boxes",
+          "descriptionText": "If you are in the vape product business active in hopes of extraordinary success,"
+        }
+      ]
+    },
+    {
+      "slug": "e-liquid-boxes",
+      "id": "e-liquid-boxes",
+      "linkTitle" : "CBD Packaging",
+      "link" : "Home",
+      "productTitle": "Custom E Liquid Boxes",
+      "productImages": [
+        "https://res.cloudinary.com/sireprinting/image/upload/v1601945322/e-liquid-boxes.png",
+        "https://res.cloudinary.com/sireprinting/image/upload/v1601945322/e-liquid-boxes-gallery1.png"
+      ],
+      "specifications": [
+        {
+          "name": "Box Style",
+          "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
+        },
+        {
+          "name": "Dimensions",
+          "detail": "All Sizes Available"
+        },
+        {
+          "name": "Quantity",
+          "detail": "50"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "slug": "custom-pre-rolled-cones-boxes",
+          "productTitle": "Custom Pre Rolled Cones Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627831709Pre-Rolls-Cones-Boxes-SirePrinting%2001.png"
+        }
+      ],
+      "description": [
+        {
+          "descriptionHeading": "Enhancing Vaping with Custom E-Liquid Boxes",
+          "descriptionText": "The trend is quite hot for Enhancing Vaping with Custom E-Liquid Boxes in the modern market."
+        }
+      ]
+    },
+    {
+      "slug": "hemp-tea-boxes",
+      "id": "hemp-tea-boxes",
+      "linkTitle" : "CBD Packaging",
+      "link" : "Home",
+      "productTitle": "Hemp Tea Boxes",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1627831925Hemp-Tea-Boxes-SirePrinting%2002.png-gallery1",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627831925Hemp-Tea-Boxes-SirePrinting%2004.png-gallery3"
+      ],
+      "specifications": [
+        {
+          "name": "Box Style",
+          "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
+        },
+        {
+          "name": "Dimensions",
+          "detail": "All Sizes Available"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "slug": "custom-hemp-cereal-boxes",
+          "productTitle": "Custom Hemp Cereal Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640207992Hemp%20Cereal%20Packaging%20Boxes%20Sire%20Printing%2003.png"
+        }
+      ]
+    },
+    {
+      "slug": "medical-cannabis-boxes",
+      "id": "medical-cannabis-boxes",
+      "linkTitle" : "CBD Packaging",
+      "link" : "Home",
+      "productTitle": "Custom Medical Cannabis Boxes",
+      "description": [
+        {
+          "descriptionHeading": "Stand out of the Crowd with Elegantly Designed Custom Marijuana Medical Boxes",
+          "descriptionText": "With our exceptionally designed, safe, and sturdy Custom Marijuana Medical Boxes."
+        }
+      ],
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1627832313Medical-Cannabis-Boxes-SirePrinting%2003.png-gallery2",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627832314Medical-Cannabis-Boxes-SirePrinting%2004.png-gallery3"
+      ],
+      "specifications": [
+        {
+          "name": "Box Style",
+          "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
+        },
+        {
+          "name": "Quantity",
+          "detail": "50"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "slug": "vape-pen-boxes",
+          "productTitle": "Vape Pen Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627836476Vape-Pen-Boxes-SirePrinting%2001.png"
+        },
+        {
+          "slug": "hemp-protein-bar-boxes",
+          "productTitle": "Hemp Protein Bar Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640219681Hemp%20Protien%20Bar%20Display%20Boxes%20Sire%20Printing%2001.png"
+        }
+      ]
+    },
+    {
+      "slug": "pod-vape-boxes",
+      "id": "pod-vape-boxes",
+      "linkTitle" : "CBD Packaging",
+      "link" : "Home",
+      "productTitle": "Custom CBD Pod Vape Boxes",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1627836715Pod-Vape-Boxes-SirePrinting%2002.png-gallery1",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627836716Pod-Vape-Boxes-SirePrinting%2003.png-gallery2"
+      ],
+      "specifications": [
+        {
+          "name": "Box Style",
+          "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
+        },
+        {
+          "name": "Quantity",
+          "detail": "50"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "slug": "hemp-tea-boxes",
+          "productTitle": "Hemp Tea Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627831925Hemp-Tea-Boxes-SirePrinting%2001.png"
+        },
+        {
+          "slug": "CBD Pre Rolls Boxes",
+          "productTitle": "CBD Pre Rolls Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627835995Pre-Rolls-Boxes-SirePrinting%2001.png"
+        }
+      ],
+      "description": [
+        {
+          "descriptionHeading": "Experience a Unique Blend of Quality ",
+          "descriptionText": "We allow you and your vape fans to get a unique experience with our economical services"
+        }
+      ]
+    },
+    {
+      "slug": "hemp-pre-rolled-boxes",
+      "id": "hemp-pre-rolled-boxes",
+      "linkTitle" : "CBD Packaging",
+      "link" : "Home",
+      "productTitle": "Custom Hemp Pre Rolled Boxes",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1627835289Hemp-Pre-Rolled-Boxes-SirePrinting%2001.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627835290Hemp-Pre-Rolled-Boxes-SirePrinting%2003.png-gallery2"
+      ],
+      "specifications": [
+        {
+          "name": "Box Style",
+          "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
+        },
+        {
+          "name": "Quantity",
+          "detail": "50"
+        }
+      ],
+      "relatedProducts": [
+        {
+          "slug": "cbd-oil-boxes",
+          "productTitle": "CBD Oil Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627779660CBD%20Oil%20Boxes%20SirePrinting%2001.png"
+        },
+        {
+          "slug": "custom-hemp-boxes",
+          "productTitle": "Custom Hemp Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627831230Custom-Hemp-Boxes-SirePrinting%2001.png"
+        }
+      ]
+    }
+  ]
+}
