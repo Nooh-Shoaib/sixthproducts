@@ -3,8 +3,8 @@
     {
       "slug": "pre-rolls-boxes",
       "id": "pre-rolls-boxes",
-      "Titlelink" : "/CBDPackaging",
-      "Title" : "CBD Packaging",
+      "titlelink" : "/CBDPackaging",
+      "title" : "CBD Packaging",
       "homelink" : "Home",
       "productTitle": "Custom CBD Pre Rolls Packaging Boxes",
       "productImages": [
@@ -42,8 +42,8 @@
     {
       "slug": "vape-accessories-boxes",
       "id": "vape-accessories-boxes",
-      "Titlelink" : "/CBDPackaging",
-      "Title" : "CBD Packaging",
+      "titlelink" : "/CBDPackaging",
+      "title" : "CBD Packaging",
       "homelink" : "Home",
       "productTitle": "Custom Vape Accessories Boxes",
       "productImages": [
@@ -81,8 +81,8 @@
     {
       "slug": "vape-juice-bottle-boxes",
       "id": "vape-juice-bottle-boxes",
-       "Titlelink" : "/CBDPackaging",
-      "Title" : "CBD Packaging",
+       "titlelink" : "/CBDPackaging",
+      "title" : "CBD Packaging",
       "homelink" : "Home",
       "productTitle": "Custom Vape Juice Bottle Boxes",
       "productImages": [
@@ -116,8 +116,8 @@
     {
       "slug": "vape-oil-cartridge-boxes",
       "id": "vape-oil-cartridge-boxes",
-       "Titlelink" : "/CBDPackaging",
-      "Title" : "CBD Packaging",
+       "titlelink" : "/CBDPackaging",
+      "title" : "CBD Packaging",
       "homelink" : "Home",
       "productTitle": "Custom Vape Oil Cartridge Boxes",
       "description": [
@@ -154,8 +154,8 @@
     {
       "slug": "vape-pen-boxes",
       "id": "vape-pen-boxes",
-      "Titlelink" : "/CBDPackaging",
-      "Title" : "CBD Packaging",
+      "titlelink" : "/CBDPackaging",
+      "title" : "CBD Packaging",
       "homelink" : "Home",
       "productTitle": "Custom Vape Pen Boxes",
       "productImages": [
@@ -198,9 +198,9 @@
     {
       "slug": "bath-bomb-boxes",
       "id": "bath-bomb-boxes",
-       "Titlelink" : "/CustomRetailPackaging",
+       "titlelink" : "/CustomRetailPackaging",
       "homelink" : "Home",
-      "Title" : "Custom Retail Packaging",
+      "title" : "Custom Retail Packaging",
       "productTitle": "Custom Bath Bomb Boxes",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1632874083Bath%20Bomb%20Boxes%20Sire%20Printing%2001.png",
